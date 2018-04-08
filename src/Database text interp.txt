@@ -1,0 +1,13 @@
+{0,1,2,3...} number
+{X} X
+{T} tab
+{W} white
+{U} blue
+{B} black
+{R} red
+{G} green
+
+#_ Text begin.
+_# Text end.
+£ New line.
+
