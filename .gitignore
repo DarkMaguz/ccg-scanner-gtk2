@@ -30,3 +30,59 @@
 *.exe
 *.out
 *.app
+
+# Autotools
+Makefile
+Makefile.in
+autom4te.cache/
+config.log
+config.status
+libtool
+aclocal.m4
+compile
+config.guess
+config.sub
+configure
+depcomp
+install-sh
+ltmain.sh
+missing
+src/.deps/
+src/.libs/
+src/Makefile
+src/Makefile.in
+src/scanner
+src/examples/test
+src/examples/CannyDetector
+src/examples/example
+src/examples/FaceDetection
+src/examples/FindObject
+src/examples/Smile
+src/examples/test
+src/examples/SquareDetection
+src/examples/DispatcherExample
+src/examples/ThreadExample
+src/examples/tesscv
+src/examples/snap
+src/examples/TextDetection1
+src/examples/MagicDatabase
+
+# Licensed media
+pics/icons/large
+pics/icons/medium
+pics/icons/sets
+pics/icons/small
+pics/magic_cards
+pics/magic_cards2
+
+# Eclipse project files
+.autotools
+.cproject
+.project
+.settings/
+
+# Server files
+docker/datadir/
+
+# Developer scripts
+docker/go.sh
